@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "TryFoam1",
+			"path": "TryFoam1"
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Gray Matter Dark",
+		"vscodeMarkdownNotes.noteCompletionConvention": "noExtension"
+	}
+}
